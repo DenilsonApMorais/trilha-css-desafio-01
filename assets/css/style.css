@@ -1,0 +1,12 @@
+*{
+    /*background-color: black;*/
+}
+.banner{
+    background-image: url(../images/banner.png);
+    background-size: cover;
+    width: 100vw;
+    height: 800px;
+}
+.banner-content{
+   text-align: center;
+}
