@@ -37,18 +37,15 @@ body{
 p{
     margin-top: 20px;
     margin-bottom: 20px;
-    font-size: 1.2em;
-    
+    font-size: 1.2em;  
 }
 h1{
-    font-weight: bolder;
     font-size: 3em;
     color: #1472B7;   
 }
 button{  
     padding: 16px 32px;
     background-color: transparent;
-    color: white;
     border: 1px solid #31A8DD;
     font-size: 1.3em;
     color: #1472B7;
@@ -89,14 +86,12 @@ span{
     width: 650px;
     margin: auto;
     height: 700px;
-    border-botton:1px solid rgba(50, 168, 219, .2);
 }
 footer{
     border-top:1px solid rgba(50, 168, 219, .2);
     padding: 50px 0;
     background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
     height: 100px;
-    border-top:1px solid rgba(50, 168, 219, .2);
 }
 a{
     text-decoration: none ;
